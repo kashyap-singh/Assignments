@@ -1,0 +1,24 @@
+#outer{
+	margin:100px 200px;
+
+}
+#para1,#para2{
+	border:3px solid black;
+	margin-bottom:15px;
+}
+
+#click{
+	text-align: center;
+}
+#swap{
+	height:35px;
+	width:100px;
+	border-radius:8px; 
+}
+p{
+	padding-left:15px;
+	padding-right: 15px;
+	text-align:justify;
+	font-size: 20px;
+	font-family: sans-serif;
+}
