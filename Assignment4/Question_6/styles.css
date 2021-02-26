@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: #4a47a3;
+}
+#pic{
+	height:400px;
+	width:250px;
+	border-radius:15px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#outer,#btn{
+	text-align: center;
+	margin-top: 30px;
+
+}
+#switch{
+	height:50px;
+	width: 100px;
+	border-radius:50px;
+}
+button{
+	border-radius: 30px;
+	border: 0;
+	outline: none;
+}
